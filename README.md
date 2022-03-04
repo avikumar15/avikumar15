@@ -32,20 +32,10 @@
     ![Javascript](https://img.shields.io/badge/javascript%20-%2300599C.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
     ![Linux](https://img.shields.io/badge/linux%20-%2300599C.svg?&style=for-the-badge&logo=linux&logoColor=white)
     ![Git](https://img.shields.io/badge/git%20-%2300599C.svg?&style=for-the-badge&logo=git&logoColor=white)
-    ![HTML](https://img.shields.io/badge/html%20-%2300599C.svg?&style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo=css3&logoColor=white)
     ![ReactJS](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white)
-    ![ExpressJS](https://img.shields.io/badge/expressjs%20-%2300599C.svg?&style=for-the-badge&logo=express&logoColor=white)
-    ![Helidon](https://img.shields.io/badge/helidon%20mp%20-%2300599C.svg?&style=for-the-badge&logo=helidon&logoColor=white)
     ![Django](https://img.shields.io/badge/django%20-%2300599C.svg?&style=for-the-badge&logo=django&logoColor=white)
     ![Flask](https://img.shields.io/badge/flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/firebase%20-%2300599C.svg?&style=for-the-badge&logo=firebase&logoColor=white)
-    ![CircleCI](https://img.shields.io/badge/circleci%20-%2300599C.svg?&style=for-the-badge&logo=circleci&logoColor=white)
     
-
-## 	:trophy: Trophies
-[![Avi's Trophy](https://github-profile-trophy.vercel.app/?username=avikumar15&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=avikumar15&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
-
 ## :medal_sports: Stats for nerds
 
 ![Avi's github stats](https://github-readme-stats.vercel.app/api?username=avikumar15&show_icons=true&theme=dracula)
