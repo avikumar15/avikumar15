@@ -6,11 +6,12 @@
 <img src="https://i.imgur.com/LmOlfwe.gif" width="250" height="250" align="right">
 
 ## About me! :tada:
-- 🔭 I’m a final year CSE student at [NIT Trichy](https://www.nitt.edu).
-- 👨‍💻️ I'm a software developer at [Delta Force](https://delta.nitt.edu), NIT Trichy.
+- 🔭 I’m a CSE graduate from [NIT Trichy](https://www.nitt.edu).
+- 👨‍💻️ I have experience working as SDE at Amazon, intern at Oracle and DailyObjects.
+- 👨‍💻️ I have been a student developer at [Delta Force](https://delta.nitt.edu), NIT Trichy.
 - 🤝 I love collaborating on projects so reach out to me if you have something interesting.
 - 🚀 Check out more about me <a href="https://avikumar15.github.io/">here</a>.
-- 📄 Check my Resumé [here](https://avikumar15.github.io/assets/AviKumarSingh_Resume.pdf).
+- 📄 Check my Resumé [here](https://avikumar15.github.io/assets/AviKumarSinghResume.pdf).
 - 📺 When I am not coding, I am usually re-watching "The Office".
  </p>
 
